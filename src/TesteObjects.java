@@ -5,8 +5,9 @@ public class TesteObjects {
     double altura;
 
     public void criar() {
-        System.out.println("Idade: " + idade);
+        System.out.println("Criando uma pessoa com os seguintes atributos: ");
         System.out.println("Nome: " + nome);
+        System.out.println("Idade: " + idade);
         System.out.println("ALtura: " + altura);
     }
 
